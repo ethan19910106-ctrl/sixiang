@@ -1,0 +1,6 @@
+{
+  "name": "儿童四象 · 亲子沟通工具",
+  "description": "基于儿童四象星座性格画像的亲子沟通工具，提供专属日常说话口诀与8大生活场景实操话术。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
